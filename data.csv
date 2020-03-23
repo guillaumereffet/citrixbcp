@@ -1,0 +1,5 @@
+customer;platform;product;licence;networking;disclaimer;ps
+new;cloud;remote PC;CVAD;test;test;none
+new;cloud;CMD;CVAD;test;test;none
+existing;onprem;remote PC;CVAD;test;test;none
+existing;cloud;CMD;CVAD;test;test;none
